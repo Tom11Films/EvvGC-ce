@@ -1,0 +1,108 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\as\Desktop\EvvGC FW_0.2\103RC.uvproj
+Project File Date:  03/12/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(54): warning:  #1295-D: Deprecated declaration UART4_IRQHandler - give arg types
+main.c(328): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+main.c(333): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+linking...
+Program Size: Code=22560 RO-data=784 RW-data=744 ZI-data=1744  
+FromELF: creating hex file...
+"103RC.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=22560 RO-data=784 RW-data=744 ZI-data=1744  
+FromELF: creating hex file...
+"103RC.axf" - 0 Error(s), 0 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -c SWD -p "C:\Users\as\Desktop\EvvGC FW_0.2\103RC.hex" -Rst -Run
+STM32 ST-LINK CLI v1.3.0
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x414 
+Device flash Size : 256 Kbytes
+Device family :STM32F10xxx High-density device
+Flash Programming:
+  File : C:\Users\as\Desktop\EvvGC FW_0.2\103RC.hex
+  Address : 0x08000000
+Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0% 0%€€€€ 8%€€€€ 17%€€€€ 25%€€€€€ 34%€€€€ 43%€€€€ 51%€€€€€ 60%€€€€ 69%€€€€ 77%€€€€€ 86%€€€€ 94%€€€ 100%
+Flash memory programmed in 2s and 558ms.
+Programming Complete.
+MCU Reset.
+Application started.
+Build target 'Target 1'
+compiling main.c...
+main.c(54): warning:  #1295-D: Deprecated declaration UART4_IRQHandler - give arg types
+main.c(328): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+main.c(333): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+linking...
+Program Size: Code=23000 RO-data=784 RW-data=744 ZI-data=1744  
+FromELF: creating hex file...
+"103RC.axf" - 0 Error(s), 3 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -c SWD -p "C:\Users\as\Desktop\EvvGC FW_0.2\103RC.hex" -Rst -Run
+STM32 ST-LINK CLI v1.3.0
+STM32 ST-LINK Command Line Interface
+No target connected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -c SWD -p "C:\Users\as\Desktop\EvvGC FW_0.2\103RC.hex" -Rst -Run
+STM32 ST-LINK CLI v1.3.0
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x414 
+Device flash Size : 256 Kbytes
+Device family :STM32F10xxx High-density device
+Flash Programming:
+  File : C:\Users\as\Desktop\EvvGC FW_0.2\103RC.hex
+  Address : 0x08000000
+Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0% 0%€€€€ 8%€€€€ 16%€€€€ 25%€€€€ 33%€€€€€ 42%€€€€ 50%€€€€ 59%€€€€ 67%€€€€€ 76%€€€€ 84%€€€€ 93%€€€€ 100%
+Flash memory programmed in 2s and 559ms.
+Programming Complete.
+MCU Reset.
+Application started.
+Build target 'Target 1'
+compiling main.c...
+main.c(54): warning:  #1295-D: Deprecated declaration UART4_IRQHandler - give arg types
+main.c(328): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+main.c(333): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+linking...
+Program Size: Code=23016 RO-data=784 RW-data=744 ZI-data=1744  
+FromELF: creating hex file...
+"103RC.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=23016 RO-data=784 RW-data=744 ZI-data=1744  
+FromELF: creating hex file...
+"103RC.axf" - 0 Error(s), 0 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -c SWD -p "C:\Users\as\Desktop\EvvGC FW_0.2\103RC.hex" -Rst -Run
+STM32 ST-LINK CLI v1.3.0
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x414 
+Device flash Size : 256 Kbytes
+Device family :STM32F10xxx High-density device
+Flash Programming:
+  File : C:\Users\as\Desktop\EvvGC FW_0.2\103RC.hex
+  Address : 0x08000000
+Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0% 0%€€€€ 8%€€€€ 16%€€€€ 25%€€€€ 33%€€€€€ 42%€€€€ 50%€€€€ 59%€€€€ 67%€€€€€ 76%€€€€ 84%€€€€ 93%€€€€ 100%
+Flash memory programmed in 2s and 559ms.
+Programming Complete.
+MCU Reset.
+Application started.
+Build target 'Target 1'
+compiling main.c...
+main.c(54): warning:  #1295-D: Deprecated declaration UART4_IRQHandler - give arg types
+main.c(328): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+main.c(333): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uint8_t *"
+linking...
+Program Size: Code=23016 RO-data=784 RW-data=744 ZI-data=1744  
+FromELF: creating hex file...
+"103RC.axf" - 0 Error(s), 3 Warning(s).

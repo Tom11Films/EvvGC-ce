@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "startup_stm32f10x_hd.o" "main.o" "system_stm32f10x.o" "stm32f10x_gpio.o" "stm32f10x_usart.o" "stm32f10x_tim.o" "stm32f10x_sdio.o" "stm32f10x_rcc.o" "stm32f10x_i2c.o" "stm32f10x_exti.o" "stm32f10x_adc.o" "stm32f10x_dma.o" "misc.o" --strict --scatter "103RC.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\103RC.map" -o 103RC.axf
